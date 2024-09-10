@@ -1,4 +1,4 @@
-# esx_extended
+# ESX Extended for FXServer
 
 `esx_extended` is a framework for the FiveM server that provides a number of additional features for the game Grand Theft Auto V.
 
